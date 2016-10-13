@@ -1,28 +1,11 @@
-== README
+== Reddit (Clone)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Requirements
 
-Things you may want to cover:
+* Users can sign up / sign in / sign out
 
-* Ruby version
+* Users can submit a link to an external URL
 
-* System dependencies
+* Users can add comments about a link
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Users can vote up / down on the other users' comments
